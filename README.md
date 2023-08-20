@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">As a Full-Stack Developer, I specialize in designing and implementing scalable and efficient systems that power web applications. I have expertise in a variety of programming languages, including Java , Python and JavaScript and am proficient in building APIs, databases, client-side and server-side architecture. <br><br>Experienced in DSA with expertise in Java. Passionate about problem-solving and continually exploring new techniques to optimize code performance.<br><br>Aspiring for a challenging career in Software Development to use my skills and experience for the best results.</h3>
+<h3 align="center">As a Full-Stack Developer, I specialize in designing and implementing scalable and efficient systems that power web applications. I have expertise in a variety of programming languages, including Java , Python and JavaScript and am proficient in building APIs, databases, client-side and server-side architectures. <br><br>Experienced in DSA with expertise in Java. Passionate about problem-solving and continually exploring new techniques to optimize code performance.<br><br>Aspiring for a challenging career in Software Development to use my skills and experience for the best results.</h3>
 
 ###
 
