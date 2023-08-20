@@ -1,24 +1,14 @@
-<h3 align="left"></h3>
-
-###
-
-<h2 align="left">Hey I'm Alfazal and I am a Full Stack Developer.</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfazal007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Alfazal007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alfazal007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
 </div>
 
 ###
 
-<h3 align="left"></h3>
+<h1 align="center">Hey 👋! I'm Alfazal and I am a Full-Stack Developer.</h1>
 
 ###
 
-<h2 align="center">Glad to see you here!</h2>
+<h2 align="left">Glad to see you here!</h2>
 
 ###
 
@@ -26,11 +16,11 @@
 
 ###
 
-<h3 align="left"></h3>
+<p align="left"></p>
 
 ###
 
-<h3 align="left">Skills:</h3>
+<h2 align="left">Skills :-</h2>
 
 ###
 
@@ -38,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
@@ -58,8 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
@@ -82,7 +72,11 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
+
+###
+
+<h2 align="left">Connect with me :-</h2>
 
 ###
 
@@ -97,14 +91,28 @@
 
 ###
 
-<br clear="both">
+<h3 align="left"></h3>
 
-<img src="https://raw.githubusercontent.com/Alfazal007/Alfazal007/output/snake.svg" alt="Snake animation" />
+###
+
+<h2 align="left">Github stats :-</h2>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/39Cg.gif"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alfazal007.Alfazal007&left_color=yellowgreen&right_color=blue&left_text=Profile Views"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfazal007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Alfazal007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alfazal007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left"></h3>
 
 ###
