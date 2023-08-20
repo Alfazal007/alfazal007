@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alfazal</h1>
+[<h1 align="center">Hi 👋, I'm Alfazal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfazal007&label=Profile%20views&color=0e75b6&style=flat" alt="alfazal007" /> </p>
@@ -18,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfazal007&show_icons=true&locale=en" alt="alfazal007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfazal007&" alt="alfazal007" /></p>
+](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif
