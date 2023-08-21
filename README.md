@@ -100,7 +100,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfazal007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfazal007" height="180" alt="stats graph"  />
 </div>
   <img src="https://streak-stats.demolab.com?user=Alfazal007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="180" alt="streak graph"  />
   
